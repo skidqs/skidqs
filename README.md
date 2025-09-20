@@ -1,6 +1,6 @@
 <h1 align="center">hello, i'm skidqs</h1>
 
-<h3 align="left"><b>Languages & Tools:</b></h3>
+<h3 align="left"><b>Languages & Tools</b></h3>
 <p align="left"> 
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -44,7 +44,7 @@
 
 <br/>
 
-<h3 align="left"><b>My GitHub Stats:</b></h3>
+<h3 align="left"><b>My GitHub Stats</b></h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&theme=tokyonight&hide_border=true" alt="skidqs" />
 </p>
