@@ -2,12 +2,11 @@
 
 <h3 align="left"><b>Languages & Tools</b></h3>
 <p align="left"> 
-
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
   <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Windows_Batch_logo.png" alt="batch" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/Endermanch/MalwareDatabase/master/Logos/batch.png" alt="batch" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -27,7 +26,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
-
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch linux" width="40" height="40"/> 
   </a>
@@ -46,5 +44,5 @@
 
 <h3 align="left"><b>My GitHub Stats</b></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&theme=tokyonight&hide_border=true" alt="skidqs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&border_color=FFFFFF&title_color=0D1B2A&text_color=4B8BBE&icon_color=0D1B2A&ring_color=0D1B2A&bg_color=00000000" alt="skidqs GitHub Stats" />
 </p>
