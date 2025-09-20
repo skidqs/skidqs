@@ -6,7 +6,7 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
   <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/batch-file.png" alt="batch" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/batch/batch-original.svg" alt="batch" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -44,5 +44,5 @@
 
 <h3 align="left"><b>My GitHub Stats</b></h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&border_color=FFFFFF&title_color=1D4ED8&text_color=3B82F6&icon_color=3B82F6&ring_color=1D4ED8&bg_color=00000000&count_private=true&hide_rank=true&hide_title=false&card_width=400" alt="skidqs GitHub Stats" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=1D4ED8&text_color=3B82F6&icon_color=3B82F6&ring_color=1D4ED8&bg_color=00000000&count_private=true&hide_rank=false&card_width=400&title=skidqs%20Github%20Stats" alt="skidqs Github Stats" width="480"/>
 </p>
