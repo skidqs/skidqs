@@ -44,5 +44,5 @@
 
 <h3 align="left"><b>My GitHub Stats</b></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&border_color=FFFFFF&title_color=0D1B2A&text_color=4B8BBE&icon_color=0D1B2A&ring_color=0D1B2A&bg_color=00000000" alt="skidqs GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&border_color=FFFFFF&title_color=3c00bd&text_color=B794F4&icon_color=B794F4&ring_color=3c00bd&bg_color=00000000" alt="skidqs GitHub Stats" />
 </p>
