@@ -39,7 +39,7 @@
 
 <br/>
 
-<h3 align="left"><b>My GitHub Stats</b></h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=1D4ED8&text_color=3B82F6&icon_color=3B82F6&ring_color=1D4ED8&bg_color=00000000&count_private=true&hide_rank=false&card_width=400&title=skidqs%20Github%20Stats" alt="skidqs Github Stats" width="480"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=1D4ED8&text_color=3B82F6&icon_color=3B82F6&ring_color=1D4ED8&bg_color=00000000&count_private=true&hide_rank=false&card_width=380&title=skidqs%20Github%20Stats" alt="skidqs Github Stats" width="380" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&title_color=1D4ED8&text_color=3B82F6&bg_color=00000000" alt="skidqs Top Languages" width="380" style="display:inline-block;"/>
 </p>
