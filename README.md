@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
   <img src="https://files.catbox.moe/7x1y3u.png" alt="JSON" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Batch_file_icon.png" alt="Batch" width="30" height="30"/>
+  <img src="https://img.favpng.com/8/24/20/batch-file-computer-icons-computer-file-ms-dos-png-favpng-QYu4CzdPV0XZ7EZkyNF19yBN7.jpg" alt="Batch" width="30" height="30"/>
 </p>
 
 <h4><b>OS Stack</b></h4>
