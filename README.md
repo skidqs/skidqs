@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=500&cache_seconds=600" alt="skidqs Github Stats" width="500" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&hide_border=false&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&card_width=520&langs_count=8&count_private=true&layout=compact&cache_seconds=600" alt="skidqs Top Languages" width="520" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&hide_border=false&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&card_width=500&langs_count=8&count_private=true&layout=compact&cache_seconds=600" alt="skidqs Top Languages" width="500" style="display:inline-block;"/>
 </p>
 
 <br/>
