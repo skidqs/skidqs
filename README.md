@@ -1,6 +1,12 @@
 <h1 align="center">hello, i'm skidqs</h1>
 
-<h3 align="left"><b>Tech Stack</b></h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=1D4ED8&text_color=3B82F6&icon_color=3B82F6&ring_color=1D4ED8&bg_color=E5E7EB&count_private=true&hide_rank=false&card_width=400&title=skidqs%20Github%20Stats" alt="skidqs Github Stats" width="400" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&title_color=1D4ED8&text_color=3B82F6&bg_color=E5E7EB&card_width=400" alt="skidqs Top Languages" width="400" style="display:inline-block;"/>
+</p>
+
+<br/>
+
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -35,11 +41,4 @@
   <a href="https://blackarch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://blackarch.org/images/logo.png" alt="black arch" width="40" height="40"/> 
   </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=1D4ED8&text_color=3B82F6&icon_color=3B82F6&ring_color=1D4ED8&bg_color=00000000&count_private=true&hide_rank=false&card_width=380&title=skidqs%20Github%20Stats" alt="skidqs Github Stats" width="380" style="display:inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&title_color=1D4ED8&text_color=3B82F6&bg_color=00000000" alt="skidqs Top Languages" width="380" style="display:inline-block;"/>
 </p>
