@@ -7,15 +7,13 @@
   <p align="center">
     <table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
       <tr>
-        <td style="padding: 0;">
+        <td style="padding: 0; vertical-align: top;">
           <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=433&cache_seconds=600" 
                alt="GitHub Stats" width="433" style="display:block;">
         </td>
-        <td style="padding-left:10px; vertical-align:top;">
-          <div style="background-color:#2D2D2D; width:auto; height:165px; padding:5px; display:flex; justify-content:center; align-items:center; border-radius:5px;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&cache_seconds=600" 
-                 alt="Top Languages" style="height:100%;">
-          </div>
+        <td style="padding-left:10px; vertical-align: top;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&cache_seconds=600" 
+               alt="Top Languages" width="auto" style="display:block; max-height:165px;">
         </td>
       </tr>
     </table>
