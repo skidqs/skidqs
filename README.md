@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="30" height="30"/>
   <img src="https://blackarch.org/images/logo.png" alt="BlackArch" width="30" height="30"/>
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="30" height="30"/>
-  <img src="https://w7.pngwing.com/pngs/313/385/png-transparent-kali-linux-backtrack-penetration-test-ubuntu-sick-branch-monochrome-vertebrate.png" alt="Kali Linux" width="30" height="30"/>
+  <img src="https://files.catbox.moe/kakx9z.png" alt="Kali Linux" width="30" height="30"/>
 </p>
 
 <h4><b>DevOps Stack</b></h4>
