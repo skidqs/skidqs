@@ -8,7 +8,6 @@
            alt="skidqs Github Stats" 
            width="380" style="border:0; outline:0;"/>
     </td>
-    <td width="5"></td>
     <td style="padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&card_width=300&langs_count=8&count_private=true&cache_seconds=600" 
            alt="skidqs Top Languages" 
