@@ -32,7 +32,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
 </p>
 
+
 <h4><b>Project Management Stack</b></h4>
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
 </p>
+
+![snake gif](https://github.com/skidqs/skidqs/blob/output/github-snake-dark.svg)
