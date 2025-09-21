@@ -3,26 +3,26 @@
 ***Here you can find all my repositories, i hope you will like my works :)***
 <hr>
 <p align = "left">
-  <img src = "https://komarev.com/ghpvc/?username=Lucksi&color=blue" height="23px" align = "right">
-  <img src = "https://img.shields.io/github/followers/Lucksi">
-  <img src = "https://img.shields.io/github/stars/Lucksi">
+  <img src = "https://komarev.com/ghpvc/?username=skidqs&color=blue" height="23px" align = "right">
+  <img src = "https://img.shields.io/github/followers/skidqs">
+  <img src = "https://img.shields.io/github/stars/skidqs">
 </p>
 <details>
   <summary>📊 Github stats</summary>
   <hr>
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Lucksi&show_icons=true&theme=radical" width= "433px">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucksi&layout=compact&theme=radical&langs_count=8">
+<img src = "https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&theme=radical" width= "433px">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=skidqsi&layout=compact&theme=radical&langs_count=8">
 <br>
 <br>
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Lucksi&theme=radical&hide_border=false">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=radical&hide_border=false">
 </p>
 </details>
 <details>
   <summary>🏆 Github Trophies</summary>
   <hr>
 <p align = "center">
-<img src = "https://github-profile-trophy.vercel.app/?username=Lucksi&theme=radical&row=2&column=3">
+<img src = "https://github-profile-trophy.vercel.app/?username=skidqs&theme=radical&row=2&column=3">
 </p>
 </details>
 <details>
@@ -38,11 +38,11 @@
   <summary>📈 My Stats</summary>
   <hr>
   <p align = "center">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucksi&theme=radical" width = "280px">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucksi&theme=radical" width = "280px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skidqs&theme=radical" width = "280px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skidqs&theme=radical" width = "280px">
 <br>
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucksi&theme=radical" width = "280px">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucksi&theme=radical&utcOffset=2" width = "280px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skidqs&theme=radical" width = "280px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skidqs&theme=radical&utcOffset=2" width = "280px">
 </p>
 </details>
 <details>
