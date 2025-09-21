@@ -13,7 +13,7 @@
 </details>
 
 <details>
-  <summary>📈 My Stats</summary>
+  <summary>my stats2</summary>
   <hr>
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skidqs&theme=dark&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&cache_seconds=600" width="280px">
@@ -23,5 +23,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skidqs&theme=dark&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&utcOffset=2&cache_seconds=600" width="280px">
   </p>
 </details>
-
-
