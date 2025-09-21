@@ -1,18 +1,18 @@
 <h1 align="center">hello, i'm skidqs</h1>
 <p align="center">a curious developer exploring code, Linux, and all things tech</p>
 
-<table align="center" cellpadding="0" cellspacing="0">
+<table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=380&cache_seconds=600" 
            alt="skidqs Github Stats" 
-           width="380"/>
+           width="380" style="border:0; outline:0;"/>
     </td>
     <td width="5"></td>
-    <td>
+    <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&card_width=300&langs_count=8&count_private=true&cache_seconds=600" 
            alt="skidqs Top Languages" 
-           width="300"/>
+           width="300" style="border:0; outline:0;"/>
     </td>
   </tr>
 </table>
