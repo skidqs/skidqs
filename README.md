@@ -15,7 +15,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Batch_file_icon.png" alt="Batch" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/JSON_Vector_Logo.svg" alt="JSON" width="30" height="30"/>
 </p>
 
 <h4><b>OS Stack</b></h4>
