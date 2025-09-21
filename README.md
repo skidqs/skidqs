@@ -1,16 +1,15 @@
 <h1 align="center">hello, i'm skidqs</h1>
 <p align="center">a curious developer exploring code, Linux, and all things tech</p>
 
-<h1 align="center">hello, i'm skidqs</h1>
-<p align="center">a curious developer exploring code, Linux, and all things tech</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title=skidqs%20github%20stats&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&include_all_commits=true&cache_seconds=300" 
+       width="400" height="180" style="display:inline-block; vertical-align:top; margin-right:10px; object-fit:cover;" />
 
-<p style="display:flex; justify-content:center; align-items:flex-start; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title=skidqs%20github%20stats&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&include_all_commits=true"
-       width="400" style="flex-shrink:0;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java"
-       width="400" style="flex-shrink:0;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java&cache_seconds=300" 
+       width="400" height="180" style="display:inline-block; vertical-align:top; margin-left:10px; object-fit:cover;" />
 </p>
+
+<br/>
 
 <h4><b>Programming Language Stack</b></h4>
 <p>
