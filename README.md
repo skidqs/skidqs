@@ -2,13 +2,13 @@
 <p align="center">a curious developer exploring code, Linux, and all things tech</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&border_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=360&cache_seconds=600" 
+  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&border_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=340&cache_seconds=600" 
        alt="skidqs Github Stats" 
-       width="360" style="display:inline-block; margin-right:5px;"/>
+       width="340" style="display:inline-block; margin-right:5px;"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&border_color=2D2D2D&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&card_width=300&langs_count=8&count_private=true&cache_seconds=600" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&border_color=2D2D2D&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&card_width=280&langs_count=8&count_private=true&cache_seconds=600" 
        alt="skidqs Top Languages" 
-       width="300" style="display:inline-block;"/>
+       width="280" style="display:inline-block;"/>
 </p>
 
 <br/>
