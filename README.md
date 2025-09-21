@@ -2,9 +2,25 @@
 <p align="center">a curious developer exploring code, Linux, and all things tech</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title=skidqs%20github%20stats&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&include_all_commits=true" style="display:inline-block; vertical-align:top; margin-right:10px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title=skidqs%20github%20stats&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title=skidqs%20github%20stats&title_color=A78BFA&text_color=000000&icon_color=A78BFA&ring_color=A78BFA&bg_color=FFFFFF&count_private=true&include_all_commits=true">
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title=skidqs%20github%20stats&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&include_all_commits=true"
+         style="display:inline-block; vertical-align:top; margin-right:10px;" />
+  </picture>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java" style="display:inline-block; vertical-align:top; margin-left:10px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=A78BFA&text_color=000000&icon_color=A78BFA&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java">
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java"
+         style="display:inline-block; vertical-align:top; margin-left:10px;" />
+  </picture>
 </p>
 
 <br/>
