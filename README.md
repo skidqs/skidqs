@@ -12,7 +12,7 @@
   <hr>
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&theme=radical" width= "433px">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=skidqsi&layout=compact&theme=radical&langs_count=8">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&theme=radical&langs_count=8">
 <br>
 <br>
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=radical&hide_border=false">
