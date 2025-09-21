@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=400" alt="skidqs Github Stats" width="400" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&title_color=A78BFA&text_color=FFFFFF&bg_color=2D2D2D&icon_color=A78BFA&card_width=400&hide_title=false" alt="skidqs Top Languages" width="400" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&hide_border=false&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&card_width=400&langs_count=8" alt="skidqs Top Languages" width="400" style="display:inline-block;"/>
 </p>
 
 <br/>
@@ -33,9 +33,4 @@
 <h4><b>Project Management Stack</b></h4>
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
-</p>
-
-<h4><b>Editor / IDE</b></h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
 </p>
