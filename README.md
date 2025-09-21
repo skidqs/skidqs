@@ -6,8 +6,8 @@
        alt="skidqs Github Stats" 
        width="500" 
        style="display:inline-block; margin-right:10px;"/>
-       
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&hide_border=false&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&card_width=600&langs_count=8&count_private=true&layout=compact&cache_seconds=600&text_size=18" 
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&card_width=500&langs_count=10&count_private=true&cache_seconds=600" 
        alt="skidqs Top Languages" 
        width="500" 
        style="display:inline-block;"/>
