@@ -14,8 +14,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/json/json.png" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Batch_file_icon.png" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Batch_file_icon.png" alt="Batch" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/JSON_Vector_Logo.svg" alt="JSON" width="30" height="30"/>
 </p>
 
 <h4><b>OS Stack</b></h4>
@@ -24,6 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="30" height="30"/>
   <img src="https://blackarch.org/images/logo.png" alt="BlackArch" width="30" height="30"/>
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/JSON_Vector_Logo.svg" alt="JSON" width="30" height="30"/>
 </p>
 
 <h4><b>DevOps Stack</b></h4>
