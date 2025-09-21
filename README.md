@@ -1,45 +1,65 @@
-<h1 align="center">hello, i'm skidqs</h1>
-<p align="center">a curious developer exploring code, Linux, and all things tech</p>
-
-<table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td style="padding:0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=360&cache_seconds=600" 
-           alt="GitHub Stats" width="360" style="display:block;"/>
-    </td>
-    <td style="padding:0 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&card_width=280&langs_count=8&count_private=true&cache_seconds=600" 
-           alt="Top Languages" width="280" style="display:block;"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h4><b>Programming Language Stack</b></h4>
-<p>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
-  <img src="https://files.catbox.moe/7x1y3u.png" alt="JSON" width="30" height="30"/>
+***Hi there my name is Luca and welcome to my github profile.***
+<br><br>
+***Here you can find all my repositories, i hope you will like my works :)***
+<hr>
+<p align = "left">
+  <img src = "https://komarev.com/ghpvc/?username=Lucksi&color=blue" height="23px" align = "right">
+  <img src = "https://img.shields.io/github/followers/Lucksi">
+  <img src = "https://img.shields.io/github/stars/Lucksi">
 </p>
-
-<h4><b>OS Stack</b></h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="30" height="30"/>
-  <img src="https://blackarch.org/images/logo.png" alt="BlackArch" width="30" height="30"/>
-  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="30" height="30"/>
-  <img src="https://files.catbox.moe/kakx9z.png" alt="Kali Linux" width="30" height="30"/>
+<details>
+  <summary>📊 Github stats</summary>
+  <hr>
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=Lucksi&show_icons=true&theme=radical" width= "433px">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucksi&layout=compact&theme=radical&langs_count=8">
+<br>
+<br>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Lucksi&theme=radical&hide_border=false">
 </p>
-
-<h4><b>DevOps Stack</b></h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
+</details>
+<details>
+  <summary>🏆 Github Trophies</summary>
+  <hr>
+<p align = "center">
+<img src = "https://github-profile-trophy.vercel.app/?username=Lucksi&theme=radical&row=2&column=3">
 </p>
-
-<h4><b>Project Management Stack</b></h4>
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
+</details>
+<details>
+  <summary>💠 Badges</summary>
+  <hr>
+<p align = "center">
+<a href = "https://www.credly.com/badges/e39e3365-e89f-4da6-ab09-3fe2e10a3ff8"><img src = "https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height = "100px" width = "auto"></a>
+<a href = "https://www.credly.com/badges/6648b2e8-bbab-4a81-9678-ffb8db47d177"><img src = "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"  height = "100px" width = "auto"></a>
+<a href = "https://www.credly.com/badges/bfdf8298-70ab-4fc0-9cb1-496c9cb2cb6a"><img src = "https://images.credly.com/size/340x340/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" height = "100px" width = "auto"></a>
 </p>
+</details>
+<details>
+  <summary>📈 My Stats</summary>
+  <hr>
+  <p align = "center">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucksi&theme=radical" width = "280px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucksi&theme=radical" width = "280px">
+<br>
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucksi&theme=radical" width = "280px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucksi&theme=radical&utcOffset=2" width = "280px">
+</p>
+</details>
+<details>
+  <summary>💻 Languages and Tools</summary>
+  <hr>
+    <p align = "center">
+        <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+        <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+        <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+        <img src = "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+        <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+        <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        <br>
+        <img src = "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+        <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+        <img src = "https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
+        <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+        </p>
+  </summary>
+</details>
