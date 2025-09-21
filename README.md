@@ -2,8 +2,8 @@
 <p align="center">a curious developer exploring code, Linux, and all things tech</p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubiin&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiin&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skidqs&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 <h4><b>Programming Language Stack</b></h4>
