@@ -3,15 +3,25 @@
 
 <table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
+
     <td style="padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=360&cache_seconds=600" 
            alt="skidqs Github Stats" 
            width="360" style="display:block;"/>
     </td>
-    <td style="padding: 0 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&card_width=280&langs_count=8&count_private=true&cache_seconds=600" 
-           alt="skidqs Top Languages" 
-           width="280" style="display:block;"/>
+
+    <td style="padding: 0 10px; vertical-align: top;">
+      <div style="background-color:#2D2D2D; width:280px; height:165px; padding:10px; display:flex; flex-direction:column; justify-content:center; align-items:center; border-radius:10px;">
+        <h3 style="color:#A78BFA; margin:0; font-size:16px;">Top Languages</h3>
+        <div style="margin-top:10px; display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
