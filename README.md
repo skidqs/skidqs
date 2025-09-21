@@ -1,7 +1,11 @@
 <h1 align="center">hello, i'm skidqs</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=400&title=My%20GitHub%20Stats" alt="skidqs Github Stats" width="400" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://img.shields.io/badge/skidqs-GitHub%20Stats-A78BFA?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="skidqs GitHub Stats Badge" style="margin-bottom:10px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=400" alt="skidqs Github Stats" width="400" style="display:inline-block; margin-right:10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&title_color=A78BFA&text_color=FFFFFF&bg_color=2D2D2D&icon_color=A78BFA&card_width=400&hide_title=false" alt="skidqs Top Languages" width="400" style="display:inline-block;"/>
 </p>
 
