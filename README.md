@@ -1,4 +1,4 @@
-<h1 align="center">hello, i'm skidqs</h1>
+<h1 align="center">hello, i'm skidqs. a curious developer exploring code, Linux, and all things tech</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=400" alt="skidqs Github Stats" width="400" style="display:inline-block; margin-right:10px;"/>
