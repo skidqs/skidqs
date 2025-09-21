@@ -5,8 +5,21 @@
   <summary>my github stats</summary>
   <hr>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=433&cache_seconds=600">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&cache_seconds=600">
+    <table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+      <tr>
+        <td style="padding: 0;">
+          <img src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&hide_rank=false&card_width=433&cache_seconds=600" 
+               alt="GitHub Stats" width="433" style="display:block;">
+        </td>
+        <td style="padding-left:10px; vertical-align:top;">
+          <div style="background-color:#2D2D2D; width:auto; height:165px; padding:5px; display:flex; justify-content:center; align-items:center; border-radius:5px;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&cache_seconds=600" 
+                 alt="Top Languages" style="height:100%;">
+          </div>
+        </td>
+      </tr>
+    </table>
+
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&background=2D2D2D&ring=A78BFA&fire=FF7F50&currStreakNum=FFFFFF&sideNums=FFFFFF&cache_seconds=600">
   </p>
@@ -17,7 +30,7 @@
   <hr>
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skidqs&theme=dark&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&cache_seconds=600" width="280px">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skidqs&theme=dark&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&cache_seconds=600" width="auto">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skidqs&theme=dark&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&cache_seconds=600" width="280px">
     <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skidqs&theme=dark&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&cache_seconds=600" width="280px">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skidqs&theme=dark&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&utcOffset=2&cache_seconds=600" width="280px">
