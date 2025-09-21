@@ -18,8 +18,9 @@
       </tr>
     </table>
 
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&background=2D2D2D&ring=A78BFA&fire=FF7F50&currStreakNum=FFFFFF&sideNums=FFFFFF&cache_seconds=600">
+    <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&background=2D2D2D&ring=A78BFA&fire=FF7F50&currStreakNum=FFFFFF&sideNums=FFFFFF&cache_seconds=600" alt="GitHub Streak Stats">
+    </p>
   </p>
 </details>
 
