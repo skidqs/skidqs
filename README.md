@@ -37,5 +37,3 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
 </p>
-
-![snake gif](https://github.com/skidqs/skidqs/blob/output/github-snake-dark.svg)
