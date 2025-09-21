@@ -14,6 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/json/json.png" alt="JSON" width="30" height="30"/>
 </p>
 
 <h4><b>OS Stack</b></h4>
