@@ -8,35 +8,34 @@
 
 <br/>
 
-<h3><b>Programming Language Stack</b></h3>
+<h4><b>Programming Language Stack</b></h4>
 <p>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Batch_file_icon.svg" alt="Batch" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
 </p>
 
-<h3><b>OS Stack</b></h3>
+<h4><b>OS Stack</b></h4>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="30" height="30"/>
   <img src="https://blackarch.org/images/logo.png" alt="BlackArch" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="30" height="30"/>
+  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="30" height="30"/>
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="30" height="30"/>
 </p>
 
-<h3><b>DevOps Stack</b></h3>
+<h4><b>DevOps Stack</b></h4>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
 </p>
 
-<h3><b>Project Management Stack</b></h3>
+<h4><b>Project Management Stack</b></h4>
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
 </p>
 
-<h3><b>Editor / IDE</b></h3>
+<h4><b>Editor / IDE</b></h4>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
 </p>
