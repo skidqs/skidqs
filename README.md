@@ -41,6 +41,7 @@
   <img src="https://blackarch.org/images/logo.png" alt="BlackArch" width="30" height="30"/>
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="30" height="30"/>
   <img src="https://files.catbox.moe/kakx9z.png" alt="Kali Linux" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg" alt="CachyOS" width="30" height="30"/>
 </p>
 
 <h4><b>DevOps Stack</b></h4>
