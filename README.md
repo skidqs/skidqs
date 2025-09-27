@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
   <img src="https://files.catbox.moe/7x1y3u.png" alt="JSON" width="30" height="30"/>
-  <img src=" https://imgs.search.brave.com/SUiSnZ8UVveUtJ1fM8bSJ96d3VrD7FZLC4nHhSnSrOg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL0x1YS1Mb2dv/LnN2Zw" alt="lua" width="30" height="30"/>
+  <img src="https://imgs.search.brave.com/SUiSnZ8UVveUtJ1fM8bSJ96d3VrD7FZLC4nHhSnSrOg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL0x1YS1Mb2dv/LnN2Zw" alt="lua" width="30" height="30"/>
 </p>
 
 <h4><b>OS Stack</b></h4>
