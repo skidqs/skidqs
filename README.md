@@ -33,6 +33,7 @@
   <img src="https://shorturl.at/DWMZr" alt="HTML" width="30" height="30"/>
   <img src="https://shorturl.at/BJeY7" alt="JSON" width="30" height="30"/>
   <img src="https://imgs.search.brave.com/SUiSnZ8UVveUtJ1fM8bSJ96d3VrD7FZLC4nHhSnSrOg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL0x1YS1Mb2dv/LnN2Zw" alt="Lua" width="30" height="30"/>
+  <img src="https://imgs.search.brave.com/VZ3ejNr9JG2EkARM-BQmb4bNsEEla-rQHIzkCactZkk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9uaWdo/dG51dHNreS5nYWxs/ZXJ5Y2RuLnZzYXNz/ZXRzLmlvL2V4dGVu/c2lvbnMvbmlnaHRu/dXRza3kvYmRmZC1i/ZHMvMi4xLjAvMTY4/ODE2NzI0NjI1NC9N/aWNyb3NvZnQuVmlz/dWFsU3R1ZGlvLlNl/cnZpY2VzLkljb25z/LkRlZmF1bHQ" alt="BotDesignerForDiscord" width="30" height="30"/>
 </p>
 
 <h4><b>OS Stack</b></h4>
