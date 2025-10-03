@@ -29,7 +29,7 @@
     <source media="(prefers-color-scheme: light)" 
             srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=light&hide_border=false&ring=A78BFA&fire=000000&currStreakNum=000000&stroke=A78BFA&background=E0E0E0">
     <img height="180em" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&ring=A78BFA&fire=FFFFFF&currStreakNum=FFFFFF&stroke=A78BFA&background=181919"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&ring=A78BFA&fire=FFFFFF&currStreakNum=FFFFFF&stroke=A78BFA&background=181919&border_color=FFFFFF"
          style="display:block; margin: 20px auto;" />
   </picture>
 </p>
