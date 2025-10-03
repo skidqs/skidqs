@@ -1,36 +1,33 @@
-<h1 align="center">hello, i'm skidqs</h1>
-<p align="center">a curious developer exploring code, Linux, and all things tech</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=B0B0B0&bg_color=2E2E2E&count_private=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=000000&text_color=000000&icon_color=000000&ring_color=A0A0A0&bg_color=E0E0E0&count_private=true&include_all_commits=true">
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=B0B0B0&bg_color=2E2E2E&count_private=true&include_all_commits=true"
+         style="display:inline-block; vertical-align:top; margin-right:10px;" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=2E2E2E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&langs_count=8&count_private=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=E0E0E0&title_color=000000&text_color=505050&icon_color=000000&langs_count=8&count_private=true&include_all_commits=true">
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=2E2E2E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&langs_count=8&count_private=true&include_all_commits=true"
+         style="display:inline-block; vertical-align:top; margin-left:10px;" />
+  </picture>
+</p>
 
 <p align="center">
-  <!-- GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=skidqs&hide_border=false&include_all_commits=true&count_private=true&theme=dark&bg_color=2E2E2E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF">
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&ring=B0B0B0&fire=FFFFFF&currStreakNum=FFFFFF&stroke=B0B0B0&background=2E2E2E">
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=skidqs&hide_border=false&include_all_commits=true&count_private=true&theme=default&bg_color=E0E0E0&title_color=2E2E2E&text_color=2E2E2E&icon_color=2E2E2E">
-    <img src="https://github-readme-stats.vercel.app/api?username=skidqs&hide_border=false&include_all_commits=true&count_private=true&theme=dark&bg_color=2E2E2E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" 
-         alt="skidqs GitHub Stats" />
-  </picture>
-  <br/>
-
-  <!-- GitHub Streak -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&background=2E2E2E&ring=B0B0B0&fire=FFFFFF&currStreakNum=FFFFFF&stroke=B0B0B0">
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=light&hide_border=false&background=E0E0E0&ring=8C8C8C&fire=2E2E2E&currStreakNum=2E2E2E&stroke=8C8C8C">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&background=2E2E2E&ring=B0B0B0&fire=FFFFFF&currStreakNum=FFFFFF&stroke=B0B0B0" 
-         alt="skidqs GitHub Streak" />
-  </picture>
-  <br/>
-
-  <!-- Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&theme=dark&bg_color=2E2E2E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&theme=default&bg_color=E0E0E0&title_color=2E2E2E&text_color=2E2E2E&icon_color=2E2E2E&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&theme=dark&bg_color=2E2E2E&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&include_all_commits=true" 
-         alt="skidqs Top Languages" />
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=light&hide_border=false&ring=A0A0A0&fire=000000&currStreakNum=000000&stroke=808080&background=E0E0E0">
+    <img height="180em" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&ring=B0B0B0&fire=FFFFFF&currStreakNum=FFFFFF&stroke=B0B0B0&background=2E2E2E"
+         style="display:block; margin: 20px auto;" />
   </picture>
 </p>
