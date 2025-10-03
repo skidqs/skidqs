@@ -4,36 +4,44 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title=skidqs%20github%20stats&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&include_all_commits=true">
+            srcset="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFDD54&ring_color=FF0000&bg_color=000000&count_private=true&include_all_commits=true">
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title=skidqs%20github%20stats&title_color=A78BFA&text_color=000000&icon_color=A78BFA&ring_color=A78BFA&bg_color=FFFFFF&count_private=true&include_all_commits=true">
+            srcset="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=000000&text_color=000000&icon_color=FFDD54&ring_color=FF0000&bg_color=FFFFFF&count_private=true&include_all_commits=true">
     <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=true&title=skidqs%20github%20stats&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&ring_color=A78BFA&bg_color=2D2D2D&count_private=true&include_all_commits=true"
+         src="https://github-readme-stats.vercel.app/api?username=skidqs&show_icons=true&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFDD54&ring_color=FF0000&bg_color=000000&count_private=true&include_all_commits=true"
          style="display:inline-block; vertical-align:top; margin-right:10px;" />
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java">
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFDD54&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java">
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=A78BFA&text_color=000000&icon_color=A78BFA&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java">
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=FFDD54&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java">
     <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=true&bg_color=2D2D2D&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidqs&layout=compact&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFDD54&langs_count=8&count_private=true&include_all_commits=true&show_icons=true&hide=html,java"
          style="display:inline-block; vertical-align:top; margin-left:10px;" />
   </picture>
 </p>
 
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&ring=FF0000&fire=FFDD54&currStreakNum=FFFFFF">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=light&hide_border=false&ring=FF0000&fire=FFDD54&currStreakNum=000000">
+    <img height="180em" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&ring=FF0000&fire=FFDD54&currStreakNum=FFFFFF"
+         style="display:block; margin: 20px auto;" />
+  </picture>
+</p>
 
 <h4><b>Programming Language Stack</b></h4>
 <p>
   <img src="https://shorturl.at/OCAuv" alt="Bash" width="30" height="30"/>
   <img src="https://shorturl.at/XNZa9" alt="Python" width="30" height="30"/>
   <img src="https://shorturl.at/Cez1a" alt="JavaScript" width="30" height="30"/>
-  <img src="https://shorturl.at/DWMZr" alt="HTML" width="30" height="30"/>
   <img src="https://shorturl.at/BJeY7" alt="JSON" width="30" height="30"/>
   <img src="https://imgs.search.brave.com/SUiSnZ8UVveUtJ1fM8bSJ96d3VrD7FZLC4nHhSnSrOg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL0x1YS1Mb2dv/LnN2Zw" alt="Lua" width="30" height="30"/>
-  <img src="https://imgs.search.brave.com/VZ3ejNr9JG2EkARM-BQmb4bNsEEla-rQHIzkCactZkk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9uaWdo/dG51dHNreS5nYWxs/ZXJ5Y2RuLnZzYXNz/ZXRzLmlvL2V4dGVu/c2lvbnMvbmlnaHRu/dXRza3kvYmRmZC1i/ZHMvMi4xLjAvMTY4/ODE2NzI0NjI1NC9N/aWNyb3NvZnQuVmlz/dWFsU3R1ZGlvLlNl/cnZpY2VzLkljb25z/LkRlZmF1bHQ" alt="BotDesignerForDiscord" width="30" height="30"/>
 </p>
 
 <h4><b>OS Stack</b></h4>
@@ -43,8 +51,6 @@
   <img src="https://blackarch.org/images/logo.png" alt="BlackArch" width="30" height="30"/>
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="30" height="30"/>
   <img src="https://files.catbox.moe/kakx9z.png" alt="Kali Linux" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg" alt="CachyOS" width="30" height="30"/>
-  <img src="https://imgs.search.brave.com/rlptx0gOyA8Dvt42zU2hILyIH59q6SyAiejfzbZ8YW4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzI4LzIvbWljcm9z/b2Z0LXdpbmRvd3Mt/bG9nby1wbmdfc2Vl/a2xvZ28tMjg2OTk5/LnBuZw" alt="Windows" width="30" height="30"/>
 </p>
 
 <h4><b>DevOps Stack</b></h4>
