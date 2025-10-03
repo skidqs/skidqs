@@ -1,3 +1,6 @@
+<h1 align="center">hello, i'm skidqs</h1>
+<p align="center">a curious developer exploring code, Linux, and all things tech</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
