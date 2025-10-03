@@ -25,11 +25,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&fire=A78BFA&currStreakNum=A78BFA&background=181919&border=717171">
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&ring=A78BFA&fire=FFFFFF&currStreakNum=FFFFFF&stroke=717171&background=181919">
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=light&hide_border=false&fire=A78BFA&currStreakNum=A78BFA&background=E0E0E0&border=A0A0A0">
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=light&hide_border=false&ring=A78BFA&fire=000000&currStreakNum=000000&stroke=717171&background=E0E0E0">
     <img height="180em" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&fire=A78BFA&currStreakNum=A78BFA&background=181919&border=717171"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&ring=A78BFA&fire=FFFFFF&currStreakNum=FFFFFF&stroke=717171&background=181919"
          style="display:block; margin: 20px auto;" />
   </picture>
 </p>
