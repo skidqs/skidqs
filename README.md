@@ -37,6 +37,6 @@
 <div align="center">
   <sub>
     all projects created and maintained by <b>@skidqs</b>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/lock.svg" alt="lock" width="14" height="14" style="vertical-align: text-bottom; margin-left: 4px;" />
+    <img src="assets/lock.png" alt="lock" width="14" height="14" style="vertical-align: text-bottom; margin-left: 4px;" />
   </sub>
 </div>
