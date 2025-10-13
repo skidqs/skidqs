@@ -33,4 +33,4 @@
          style="display:block; margin: 20px auto;" />
   </picture>
 </p>
-<div align="center"><sub>all rights reserved <b>@skidqs</b></sub></div>
+<div align="center"><sub>all projects created and maintained by <b>@skidqs</b> &#128274;</sub></div>
