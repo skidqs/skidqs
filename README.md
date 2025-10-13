@@ -33,3 +33,4 @@
          style="display:block; margin: 20px auto;" />
   </picture>
 </p>
+<div align="center"><sub>all rights reserved <b>@skidqs</b></sub></div>
