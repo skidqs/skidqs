@@ -37,8 +37,6 @@
 <div align="center">
   <sub>
     all projects created and maintained by <b>@skidqs</b>
-    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" viewBox="0 0 16 16" style="vertical-align: text-bottom; margin-left: 4px;">
-      <path d="M8 1a3 3 0 0 0-3 3v3H4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2h-1V4a3 3 0 0 0-3-3zM6 4a2 2 0 1 1 4 0v3H6V4z"/>
-    </svg>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/lock.svg" alt="lock" width="14" height="14" style="vertical-align: text-bottom; margin-left: 4px;" />
   </sub>
 </div>
