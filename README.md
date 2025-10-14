@@ -1,5 +1,4 @@
-<h2 align="center" style="color:#FFFFFF;">hello, i'm skidqs</h2>
----
+<h1 align="center" style="color:#FFFFFF;">hello, i'm skidqs</h1>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
