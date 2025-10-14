@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#FFFFFF;">hello, i'm skidqs</h1>
+<h1 align="center" style="color:#FFFFFF;">hello, i'm skidqs welcome to my github</h1>
 
 <p align="center">
   <picture>
