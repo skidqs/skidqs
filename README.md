@@ -1,4 +1,4 @@
-<h3 align="center" style="color:#FFFFFF;">hello, i'm skidqs</h3>
+<h2 align="center" style="color:#FFFFFF;">hello, i'm skidqs</h2>
 ---
 <p align="center">
   <picture>
