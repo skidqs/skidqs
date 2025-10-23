@@ -34,17 +34,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-profile-trophy.vercel.app/?username=skidqs&theme=onestar&no-frame=true&margin-w=10&margin-h=10&row=1&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories">
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-profile-trophy.vercel.app/?username=skidqs&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=skidqs&theme=onestar&no-frame=true&margin-w=10&margin-h=10&row=1&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories"
-         alt="GitHub Trophies"
-         style="display:inline-block; margin-top: 20px;" />
-  </picture>
-</p>
 
 <div align="center" style="margin-top: 10px;">
   <sub>
