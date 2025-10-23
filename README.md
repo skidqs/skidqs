@@ -23,15 +23,9 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&ring=FFFFFF&fire=717171&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&stroke=FFFFFF&background=181919&border_color=FFFFFF">
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=light&hide_border=false&ring=FFFFFF&fire=A0A0A0&currStreakNum=000000&currStreakLabel=000000&stroke=FFFFFF&background=E0E0E0&border_color=FFFFFF">
-    <img height="180em" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=skidqs&theme=dark&hide_border=false&ring=FFFFFF&fire=717171&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&stroke=FFFFFF&background=181919&border_color=FFFFFF"
-         style="display:inline-block; margin: 0 10px;" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=skidqs&theme=onestar&no-frame=true&margin-w=10&margin-h=10&row=1&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories"
+       alt="GitHub Trophies"
+       style="display:inline-block; margin-top: 20px;" />
 </p>
 
 <div align="center" style="margin-top: 10px;">
